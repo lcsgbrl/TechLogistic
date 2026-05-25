@@ -12,7 +12,7 @@ Tecnologias:
 Responsável pelos cálculos e processamento das rotas.
 
 Tecnologias:
-- Node.js
+- C#
 
 ## Algoritmos
 Responsável pela otimização da rota utilizando TSP.
